@@ -1,6 +1,8 @@
+<img width="1877" height="855" alt="image" src="https://github.com/user-attachments/assets/92b8d678-9dfc-4178-9318-57d84c510484" />
+
 # Bodhi
 Bodhi - E-Learning & Education Website Template
-
+https://bodhi-three.vercel.app/
 1. Homepage
 
 2. Courses Page
